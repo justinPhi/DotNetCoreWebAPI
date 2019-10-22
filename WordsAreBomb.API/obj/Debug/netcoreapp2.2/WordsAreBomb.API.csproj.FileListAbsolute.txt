@@ -1,0 +1,14 @@
+/Users/ieatmodels/Projects/WordsAreBomb/WordsAreBomb.API/bin/Debug/netcoreapp2.2/WordsAreBomb.API.deps.json
+/Users/ieatmodels/Projects/WordsAreBomb/WordsAreBomb.API/bin/Debug/netcoreapp2.2/WordsAreBomb.API.runtimeconfig.json
+/Users/ieatmodels/Projects/WordsAreBomb/WordsAreBomb.API/bin/Debug/netcoreapp2.2/WordsAreBomb.API.runtimeconfig.dev.json
+/Users/ieatmodels/Projects/WordsAreBomb/WordsAreBomb.API/bin/Debug/netcoreapp2.2/WordsAreBomb.API.dll
+/Users/ieatmodels/Projects/WordsAreBomb/WordsAreBomb.API/bin/Debug/netcoreapp2.2/WordsAreBomb.API.pdb
+/Users/ieatmodels/Projects/WordsAreBomb/WordsAreBomb.API/obj/Debug/netcoreapp2.2/WordsAreBomb.API.csprojAssemblyReference.cache
+/Users/ieatmodels/Projects/WordsAreBomb/WordsAreBomb.API/obj/Debug/netcoreapp2.2/WordsAreBomb.API.csproj.CoreCompileInputs.cache
+/Users/ieatmodels/Projects/WordsAreBomb/WordsAreBomb.API/obj/Debug/netcoreapp2.2/WordsAreBomb.API.RazorAssemblyInfo.cache
+/Users/ieatmodels/Projects/WordsAreBomb/WordsAreBomb.API/obj/Debug/netcoreapp2.2/WordsAreBomb.API.RazorAssemblyInfo.cs
+/Users/ieatmodels/Projects/WordsAreBomb/WordsAreBomb.API/obj/Debug/netcoreapp2.2/WordsAreBomb.API.AssemblyInfoInputs.cache
+/Users/ieatmodels/Projects/WordsAreBomb/WordsAreBomb.API/obj/Debug/netcoreapp2.2/WordsAreBomb.API.AssemblyInfo.cs
+/Users/ieatmodels/Projects/WordsAreBomb/WordsAreBomb.API/obj/Debug/netcoreapp2.2/WordsAreBomb.API.RazorTargetAssemblyInfo.cache
+/Users/ieatmodels/Projects/WordsAreBomb/WordsAreBomb.API/obj/Debug/netcoreapp2.2/WordsAreBomb.API.dll
+/Users/ieatmodels/Projects/WordsAreBomb/WordsAreBomb.API/obj/Debug/netcoreapp2.2/WordsAreBomb.API.pdb
