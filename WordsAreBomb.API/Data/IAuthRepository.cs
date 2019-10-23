@@ -3,6 +3,7 @@ using WordsAreBomb.API.Models;
 
 namespace WordsAreBomb.API.Data
 {
+    //testing
     public interface IAuthRepository
     {
         Task<User> Register(User user, string password);
